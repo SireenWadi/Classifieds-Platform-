@@ -54,6 +54,38 @@ Used for:
 
 AI tools were used as productivity accelerators, while all technical decisions and final implementations were made manually.
 
+
 ---
 
 ## Project Structure
+
+classifieds1/
+├── public/
+│ ├── index.php
+│ ├── contact.php
+│ └── search.php
+├── auth/
+│ ├── login.php
+│ └── register.php
+├── ads/
+│ ├── create.php
+│ └── view.php
+├── includes/
+│ ├── navbar.php
+│ └── footer.php
+├── src/
+│ └── config/
+│ └── db.php
+├── assets/
+│ ├── css/
+│ ├── js/
+│ ├── images/
+│ └── uploads/
+└── database.sql
+---
+
+## Screenshots 📸
+![Home Page](./FULL%20SCREEN/1.png)
+![Product Details](./FULL%20SCREEN/2.png)
+
+
