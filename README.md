@@ -86,8 +86,10 @@ classifieds1/
 
 ## Screenshots 📸
 ![Home Page](./FULL%20SCREEN/2.png)
-![Product Details](./FULL%20SCREEN/1.png)
+![Home Page](./FULL%20SCREEN/3.png)
 ![Product Details](./FULL%20SCREEN/5.png)
+![Product Details](./FULL%20SCREEN/2.png)
+
 
 
 
